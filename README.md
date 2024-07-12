@@ -1,2 +1,1 @@
-# handwritten-digit-recognition
-Handwritten digit recognition
+twitter sentiment analysis
